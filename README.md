@@ -1,5 +1,5 @@
 
-clone 自 https://github.com/Coande/ImoocDownloader   感谢原作者
+修改自 https://github.com/Coande/ImoocDownloader   感谢原作者
 
 # 慕课网视频批量下载工具
 
